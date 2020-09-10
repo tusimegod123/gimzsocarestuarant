@@ -1,18 +1,13 @@
 .nav-menu{
 background-color:#034d43;
-opacity: 95%;
+/* opacity: 95%; */
 }
 #links {
 color: white;
 }
-#links a:hover{
-color: yellow;
-}
 #collasible-nav-dropdown{
 color: white;
-
 }
-
 .main-image{
 width: 100%;
 height: 50%;
