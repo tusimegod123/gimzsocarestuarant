@@ -9,9 +9,13 @@ color: white;
 color: white;
 }
 .main-image{
-width: 100%;
-height: 50%;
+width: 95%;
+height: 500px;
+
 }
+/* .trying{
+height: 540px;
+} */
 .main-image1{
 width: 100%;
 height: 30%;

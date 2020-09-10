@@ -89,7 +89,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/item-two.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
@@ -98,7 +98,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/item-one.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
@@ -107,7 +107,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/item-two.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
@@ -131,7 +131,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/enjoy1.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
@@ -140,7 +140,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/enjoy2.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
@@ -149,7 +149,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/enjoy3.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
@@ -158,7 +158,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/enjoy4.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
@@ -167,7 +167,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/enjoy5.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
@@ -176,7 +176,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/enjoy6.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
@@ -185,7 +185,7 @@ export default function Home() {
                 <img
                   src={require("../static/images/enjoy7.jpg")}
                   alt=""
-                  className="main-image"
+                  className="main-image1"
                 />
               </Paper>
             </Grid>
