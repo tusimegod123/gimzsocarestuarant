@@ -83,7 +83,7 @@ export default function Home() {
           </p>
           <h2 id="heading-two">100% Local</h2>
           <Grid container spacing={2}>
-            <Grid item xs={6} sm={4}>
+            <Grid item xs={12} sm={4}>
               <Paper className={classes.paper}>
                 <img
                   src={require("../static/images/item-two.jpg")}
@@ -92,7 +92,7 @@ export default function Home() {
                 />
               </Paper>
             </Grid>
-            <Grid item xs={6} sm={4}>
+            <Grid item xs={12} sm={4}>
               <Paper className={classes.paper}>
                 <img
                   src={require("../static/images/item-one.jpg")}
@@ -101,7 +101,7 @@ export default function Home() {
                 />
               </Paper>
             </Grid>
-            <Grid item xs={6} sm={4}>
+            <Grid item xs={12} sm={4}>
               <Paper className={classes.paper}>
                 <img
                   src={require("../static/images/item-two.jpg")}
