@@ -36,6 +36,16 @@ export default function BookTable() {
         <DialogTitle id="form-dialog-title">Book your Table Now</DialogTitle>
         <DialogContent>
           <DialogContentText id="dailog-content">
+            <h4>KIND NOTICE</h4>
+            <p>
+              We are currently ONLY taking orders by calling{" "}
+              <a href="tel:+256759755313"> +256759755313</a> or
+              <a href="tel:+256786785468"> +256786785468</a> numbers
+            </p>
+            <p>
+              Alternatevely send us an email{" "}
+              <a href="mailto: gimzsocarestuarant@gmail.com"> here</a>
+            </p>
             To place your order, please enter your details here. We will attend
             to your Order as soon as possible. Thank you!
           </DialogContentText>

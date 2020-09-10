@@ -3,7 +3,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
 import { Card } from "react-bootstrap";
-import { Button } from "react-bootstrap";
 import { Carousel } from "react-bootstrap";
 import Order from "./Order";
 import BookTable from "./BookTable";
@@ -29,7 +28,7 @@ export default function Home() {
       <Grid container spacing={3}>
         <Grid item xs={12}>
           <Paper className={classes.paper}>
-            <Carousel >
+            <Carousel>
               <Carousel.Item interval={50}>
                 <img
                   src={require("../static/images/main-image-1.jpg")}
@@ -124,6 +123,7 @@ export default function Home() {
       <Card>
         <Card.Body>
           <h2 id="heading-two-two">ENJOY OUR CUISINES!</h2>
+         
 
           <Grid container spacing={3}>
             <Grid item xs={6} sm={3}>
@@ -195,7 +195,6 @@ export default function Home() {
                   src={require("../static/images/enjoy8.jpg")}
                   alt=""
                   className="main-image1"
-                  
                 />
               </Paper>
             </Grid>

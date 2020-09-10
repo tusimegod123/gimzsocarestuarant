@@ -3,9 +3,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
 import { Card } from "react-bootstrap";
-import { Button } from "react-bootstrap";
-import { Carousel } from "react-bootstrap";
-import Order from "./Order";
+
 
 import "../nav.css";
 
