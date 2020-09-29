@@ -75,8 +75,7 @@ font-family: 'Times New Roman', Times, serif;
 background-color:#104e4b;
 color: white;
 border-bottom-color:   white;
-
-height: 40px;
+height: 50px;
 }
 #footer-headings{
 text-decoration-line: underline;
@@ -87,4 +86,7 @@ border-width: thin;
 }
 #dailog-content{
 color: #034d43;
+}
+#footer-link{
+color: beige;
 }

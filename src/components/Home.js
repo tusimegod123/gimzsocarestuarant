@@ -82,7 +82,7 @@ export default function Home() {
             Kampala{" "}
           </p>
           <h2 id="heading-two">100% Local</h2>
-          <Grid container spacing={2}>
+          <Grid container spacing={1}>
             <Grid item xs={12} sm={4}>
               <Paper className={classes.paper}>
                 <img
@@ -123,7 +123,6 @@ export default function Home() {
       <Card>
         <Card.Body>
           <h2 id="heading-two-two">ENJOY OUR CUISINES!</h2>
-         
 
           <Grid container spacing={3}>
             <Grid item xs={6} sm={3}>
@@ -349,7 +348,12 @@ export default function Home() {
       </Card>
       <footer id="footer">
         {" "}
-        &copy; All Rights Reserved to Gimzsoca Restuarant 2020
+        &copy; All Rights Reserved to Gimzsoca Restuarant 2020 <br></br>
+        Designed and Developed by Tusime Godwin call me on{" "}
+        <a href="tel:+256759755313" id="footer-link">
+          {" "}
+          +2567013938916
+        </a>
       </footer>
     </div>
   );

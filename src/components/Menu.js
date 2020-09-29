@@ -168,7 +168,12 @@ export default function Menu() {
       </Card>
       <footer id="footer">
         {" "}
-        &copy; All Rights Reserved to Gimzsoca Restuarant 2020
+        &copy; All Rights Reserved to Gimzsoca Restuarant 2020 <br></br>
+        Designed and Developed by Tusime Godwin call me on{" "}
+        <a href="tel:+256759755313" id="footer-link">
+          {" "}
+          +2567013938916
+        </a>
       </footer>
     </div>
   );

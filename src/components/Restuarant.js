@@ -23,7 +23,6 @@ export default function Restuarant() {
 
   return (
     <div className={classes.root}>
-      
       <Card>
         <Card.Body>
           <h5 id="heading-four">OUR RESTUARANT IN PICTURES!</h5>
@@ -83,8 +82,6 @@ export default function Restuarant() {
                 />
               </Paper>
             </Grid>
-           
-            
           </Grid>
           <br></br>
           <div id="container">
@@ -167,7 +164,12 @@ export default function Restuarant() {
       </Card>
       <footer id="footer">
         {" "}
-        &copy; All Rights Reserved to Gimzsoca Restuarant 2020
+        &copy; All Rights Reserved to Gimzsoca Restuarant 2020 <br></br>
+        Designed and Developed by Tusime Godwin call me on{" "}
+        <a href="tel:+256759755313" id="footer-link">
+          {" "}
+          +2567013938916
+        </a>
       </footer>
     </div>
   );
